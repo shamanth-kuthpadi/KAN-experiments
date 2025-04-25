@@ -1,0 +1,11 @@
+pykan==0.2.8
+matplotlib
+numpy
+scikit_learn
+setuptools
+sympy
+torch
+tqdm
+pandas
+seaborn
+pyyaml
